@@ -1,0 +1,6 @@
+name: latcheAB
+version: '${project.version}'
+main: ru.latche.antibot.Main
+authors: [ latche ]
+description: antibot beeige pidor
+website: vk.com/latche
