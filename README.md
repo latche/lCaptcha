@@ -1,1 +1,1 @@
-# yapidor
+# Clickable captcha in the chat
